@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Script 1",
+    "script": "print('Hello from Script 1')"
+  },
+  {
+    "name": "Script 2",
+    "script": "print('Hello from Script 2')"
+  }
+]
