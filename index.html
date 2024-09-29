@@ -22,7 +22,7 @@
         }
 
         // Fetch the JSON data
-        fetch('https://your-username.github.io/your-repo-name/script.json')
+        fetch('https://ryzyka-greenguy.github.io/Neco-Hub/script.json')
             .then(response => response.json())
             .then(data => {
                 const searchInput = document.getElementById('search');
@@ -41,9 +41,6 @@
                         });
                     }
                 }
-
-                // Initial display of all scripts
-                displayResults(data);
 
                 // Get the search query from the URL
                 const query = getQueryParam('q');
