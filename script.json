@@ -16,7 +16,7 @@
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt\"))()"
     },
     {
-        "name": "Ohio Hub",
-        "script": "print(\"ohio hub real\")"
+        "name": "Owl Hub",
+        "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/OwlHub.txt\"))()"
     }
 ]
