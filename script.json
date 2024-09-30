@@ -10,5 +10,9 @@
     {
         "Name": "test",
         "ScriptContent": "print(\"total test\")"
+    },
+    {
+        "Name": "test again",
+        "ScriptContent": "print(\"total ohio\")"
     }
 ]
