@@ -4,7 +4,7 @@
     "script": "print('Hello from Script 1')"
   },
   {
-    "name": "Script 2",
-    "script": "print('Hello from Script 2')"
+    "name": "UNC test",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua'))()"
   }
 ]
