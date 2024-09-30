@@ -10,5 +10,9 @@
     {
         "name": "Infinite Yield",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
+    },
+    {
+        "name": "Dex Explorer",
+        "script": "oadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt\"))()"
     }
 ]
