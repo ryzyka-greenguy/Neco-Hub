@@ -1,10 +1,14 @@
 [
-  {
-    "name": "Script 1",
-    "script": "print('Hello from Script 1')"
-  },
-  {
-    "name": "UNC test",
-    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua'))()"
-  }
+    {
+        "name": "Script 1",
+        "script": "print('Hello from Script 1')"
+    },
+    {
+        "name": "UNC test",
+        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua'))()"
+    },
+    {
+        "Name": "test",
+        "ScriptContent": "print(\"test\")"
+    }
 ]
