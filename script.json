@@ -8,7 +8,7 @@
         "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua'))()"
     },
     {
-        "Name": "mspaint v2",
-        "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua\"))()"
+        "name": "mspaint v2",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua\"))()"
     }
 ]
