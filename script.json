@@ -10,17 +10,5 @@
     {
         "name": "mspaint v2",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua\"))()"
-    },
-    {
-        "name": "test",
-        "script": "total test"
-    },
-    {
-        "name": "rizz the test",
-        "script": "i love mr green"
-    },
-    {
-        "name": "ohio",
-        "script": "total test haha"
     }
 ]
