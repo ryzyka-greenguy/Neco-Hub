@@ -18,5 +18,9 @@
     {
         "name": "Owl Hub",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/OwlHub.txt\"))()"
+    },
+    {
+        "name": "Infinite Jump",
+        "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Infinite%20Jump.txt\"))()"
     }
 ]
