@@ -14,5 +14,9 @@
     {
         "name": "Dex Explorer",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt\"))()"
+    },
+    {
+        "name": "Owl Hub",
+        "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/OwlHub.txt\"))()"
     }
 ]
