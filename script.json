@@ -6,5 +6,9 @@
     {
         "name": "mspaint v2",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua\"))()"
+    },
+    {
+        "name": "Infinite yield",
+        "script": "total skibidi"
     }
 ]
