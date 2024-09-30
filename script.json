@@ -10,9 +10,5 @@
     {
         "name": "Infinite Yield",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
-    },
-    {
-        "name": "rate limited test",
-        "script": "ohio right"
     }
 ]
