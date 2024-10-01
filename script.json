@@ -1,26 +1,32 @@
 [
     {
         "name": "UNC test",
+        "description": "UNC environment check for roblox executors",
         "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua'))()"
     },
     {
         "name": "mspaint v2",
+        "description": "Unknown Script",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua\"))()"
     },
     {
         "name": "Infinite Yield",
+        "description": "An powerful admin commands script",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
     },
     {
         "name": "Dex Explorer",
+        "description": "A powerful game explorer GUI. Shows every instance of the game and all their properties. Useful for developers.",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt\"))()"
     },
     {
         "name": "Owl Hub",
+        "description": "One of the most popular script hubs. 30+ games.",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/OwlHub.txt\"))()"
     },
     {
         "name": "Infinite Jump",
+        "description": "Spam the spacebar to jump as high as you want.",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Infinite%20Jump.txt\"))()"
     }
 ]
