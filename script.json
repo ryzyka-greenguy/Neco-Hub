@@ -28,10 +28,5 @@
         "name": "Infinite Jump",
         "description": "Spam the spacebar to jump as high as you want.",
         "script": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Infinite%20Jump.txt\"))()"
-    },
-    {
-        "name": "Infinite cock",
-        "description": "cmd that it",
-        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
     }
 ]
