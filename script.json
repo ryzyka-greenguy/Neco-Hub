@@ -33,5 +33,10 @@
         "name": "Nameless Admin",
         "description": "Nameless Admin is one of the best admin scripts with over 300+ commands for free",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source\"))();"
+    },
+    {
+        "name": "Baka Hub",
+        "description": "Unknown Script, no rat detected",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bankboi001fr/bankboi001fr/main/BakaHubBB.lua\"))()"
     }
 ]
