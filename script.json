@@ -36,7 +36,7 @@
     },
     {
         "name": "Baka Hub",
-        "description": "Unknown Script, no rat detected",
+        "description": "Unknown Blade Ball Script. Safe Script, No Rat Detected",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bankboi001fr/bankboi001fr/main/BakaHubBB.lua\"))()"
     }
 ]
