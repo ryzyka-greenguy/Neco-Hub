@@ -38,5 +38,10 @@
         "name": "Baka Hub",
         "description": "Unknown Blade Ball Script. Safe Script, No Rat Detected",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bankboi001fr/bankboi001fr/main/BakaHubBB.lua\"))()"
+    },
+    {
+        "name": "sUNC (SimpleUNC Test)",
+        "description": "More functions that the original one, and prevents executors from faking its UNC.",
+        "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET\"))()"
     }
 ]
