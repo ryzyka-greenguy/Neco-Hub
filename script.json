@@ -43,5 +43,11 @@
         "name": "sUNC",
         "description": "Simple UNC Test, has more functions than the original one, prevents executors from faking UNC.",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET\"))()"
+    },
+    {
+        "name": "s",
+        "description": "s",
+        "script": "s",
+        "image": "https://ryzyka-greenguy.github.io/Neco-Hub/Default.png"
     }
 ]
