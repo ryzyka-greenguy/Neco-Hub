@@ -43,11 +43,5 @@
         "name": "sUNC",
         "description": "Simple UNC Test, has more functions than the original one, prevents executors from faking UNC.",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET\"))()"
-    },
-    {
-        "name": "test",
-        "description": "test",
-        "script": "test",
-        "imageurl": "https://cdn.discordapp.com/ephemeral-attachments/1290307952036548620/1291077182877204632/94itc9.jpg?ex=66fec8d3&is=66fd7753&hm=d37acb804a921f8a9cbe32fa0d12aee2c81d3683057019329dd65b0c551bd527&"
     }
 ]
