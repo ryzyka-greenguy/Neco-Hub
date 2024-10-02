@@ -48,6 +48,6 @@
         "name": "test",
         "description": "test",
         "script": "test",
-        "image": "https://cdn.discordapp.com/ephemeral-attachments/1290307952036548620/1291077182877204632/94itc9.jpg?ex=66fec8d3&is=66fd7753&hm=d37acb804a921f8a9cbe32fa0d12aee2c81d3683057019329dd65b0c551bd527&"
+        "imageurl": "https://cdn.discordapp.com/ephemeral-attachments/1290307952036548620/1291077182877204632/94itc9.jpg?ex=66fec8d3&is=66fd7753&hm=d37acb804a921f8a9cbe32fa0d12aee2c81d3683057019329dd65b0c551bd527&"
     }
 ]
