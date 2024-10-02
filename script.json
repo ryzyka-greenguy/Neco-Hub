@@ -40,8 +40,8 @@
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bankboi001fr/bankboi001fr/main/BakaHubBB.lua\"))()"
     },
     {
-        "name": "sUNC (SimpleUNC Test)",
-        "description": "More functions that the original one, and prevents executors from faking its UNC.",
+        "name": "sUNC",
+        "description": "Simple UNC Test, has more functions than the original one, prevents executors from faking UNC.",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET\"))()"
     }
 ]
