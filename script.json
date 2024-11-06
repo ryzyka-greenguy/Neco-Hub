@@ -48,5 +48,10 @@
         "name": "Saitama ReSkin (The Sorcerer Everybody Know)",
         "description": "Saitama Reskin for TSBG",
         "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/main/Latest.lua\"))()"
+    },
+    {
+        "name": "purp nigga",
+        "description": "nigga purp came back",
+        "script": "porno purp"
     }
 ]
